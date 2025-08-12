@@ -30,9 +30,9 @@ const LandingPage = () => {
         <h1 className="landing__page--title">MovieSearch</h1>
         <p className="landing__page--description">
           Find your next watch here! This database search website allows you to
-          search for any movie, tv show, or anime movies seamless
-          responsiveness. Using the OMDb API, the website also allows you to
-          view information about any media that you find. Happy searching!
+          search for any movie, tv show, or anime seamless responsiveness. Using
+          the OMDb API, the website also allows you to view information about
+          any media that you find. Happy searching!
         </p>
 
         <form className="landing__page--search" onSubmit={handleSearch}>
