@@ -1,6 +1,5 @@
 {
   "name": "movie-app",
-  "homepage": "https://deepakkolli0.github.io/MovieSearch-React",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
